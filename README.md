@@ -1,4 +1,4 @@
 For use this project please use:
-### npm install
+## npm install
 or
-### yarn install
+## yarn install
